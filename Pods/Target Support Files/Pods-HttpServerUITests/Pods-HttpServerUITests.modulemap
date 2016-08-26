@@ -1,0 +1,6 @@
+framework module Pods_HttpServerUITests {
+  umbrella header "Pods-HttpServerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
